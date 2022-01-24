@@ -1,0 +1,11 @@
+DOMAIN-KEYWORD,emby-
+DOMAIN-SUFFIX,jmsooo.com
+DOMAIN-SUFFIX,embyclub.com
+DOMAIN-SUFFIX,embyclub.net
+DOMAIN-SUFFIX,embyclub.media
+DOMAIN-SUFFIX,jmsooo.com
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,odysseyplus.site
+DOMAIN-SUFFIX,aaa.ax
+DOMAIN-SUFFIX,ssky.me
+DOMAIN-SUFFIX,charontv.com

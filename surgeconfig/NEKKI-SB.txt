@@ -8,4 +8,13 @@ DOMAIN-SUFFIX,ironsrc.mobi
 DOMAIN-SUFFIX,aarki.net
 DOMAIN-SUFFIX,nekki.com
 DOMAIN-SUFFIX,helpshift.com
-DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,compute.amazonaws.com
+DOMAIN,ow-gateway.supersonicads.com
+DOMAIN,rt.applovin.com
+DOMAIN,outcome-ssp.supersonicads.com
+DOMAIN,cdp.cloud.unity3d.com
+DOMAIN,rpc.tapjoy.com
+DOMAIN,wd.adcolony.com
+DOMAIN,adc3-launch.adcolony.com
+DOMAIN,launches.appsflyer.com
+DOMAIN,ws.tapjoyads.com

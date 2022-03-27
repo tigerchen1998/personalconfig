@@ -99,3 +99,11 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
+DOMAIN-SUFFIX,redd.it 
+​DOMAIN-SUFFIX,reddit.com 
+DOMAIN-SUFFIX,redditmail.com 
+​DOMAIN-SUFFIX,redditmedia.com 
+​DOMAIN-SUFFIX,redditstatic.com 
+DOMAIN-SUFFIX,reddituploads.com 
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net 
+​DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com

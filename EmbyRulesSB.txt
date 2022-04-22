@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,odysseyplus.site
 DOMAIN-SUFFIX,aaa.ax
 DOMAIN-SUFFIX,ssky.me
 DOMAIN-SUFFIX,charontv.com
+DOMAIN-SUFFIX,space.emby.si
+DOMAIN-SUFFIX,online.misty.cat

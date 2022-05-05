@@ -3,7 +3,6 @@ DIRECT,https://cdn.jsdelivr.net/gh/NZESupB/Profile@main/Rule/Direct.list
 DIRECT,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/Unbreak.list
 Ⓜ️ Microsoft,https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Microsoft.list
 DIRECT,https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/GoogleFCM.list
-;💬 Telegram,https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Telegram.list
 🌍 Overseas,https://cdn.jsdelivr.net/gh/NZESupB/Profile@main/Rule/Download.list
 🌍 Overseas,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/Streaming.list
 🕷️ Domestic,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/StreamingSE.list

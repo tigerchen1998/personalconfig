@@ -1,6 +1,6 @@
 🏄‍ Proxy`select`(AIA|IEPL|IPLC|专线)
 🌍 Overseas`select`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城)
-📲 Telegram`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城)
+💬 Telegram`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城)
 🕷️ Domestic`select`[]DIRECT`(台|港|HK|TW)
 Ⓜ️ Microsoft`select`[]DIRECT`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城)
 🛑 AdBlock`select`[]REJECT`[]DIRECT

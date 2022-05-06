@@ -4,6 +4,7 @@ DIRECT,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/Un
 Ⓜ️ Microsoft,https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Microsoft.list
 DIRECT,https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/GoogleFCM.list
 💬 Telegram,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/Extra/Telegram/Telegram.list
+🍿 Emby,https://cdn.jsdelivr.net/gh/tigerchen1998/personalconfig@main/ExternalConfig/emby.txt
 🌍 Overseas,https://cdn.jsdelivr.net/gh/NZESupB/Profile@main/Rule/Download.list
 🌍 Overseas,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/Streaming.list
 🕷️ Domestic,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/StreamingSE.list
@@ -11,6 +12,7 @@ DIRECT,https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/GoogleFC
 🏄‍ Proxy,https://cdn.jsdelivr.net/gh/NZESupB/Profile@main/Rule/Daily.list
 DIRECT,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/Extra/ChinaIP.list
 🛑 AdBlock,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/Guard/Advertising.list
+🛑 AdBlock,https://cdn.jsdelivr.net/gh/tigerchen1998/personalconfig@main/ExternalConfig/sogou.txt
 🛑 AdBlock,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/Guard/Hijacking.list
 🏄‍ Proxy,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/Global.list
 🏄‍ Proxy,https://cdn.jsdelivr.net/gh/NZESupB/Profile@main/Rule/us.list

@@ -5,11 +5,11 @@ DIRECT,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/Un
 DIRECT,https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/GoogleFCM.list
 💬 Telegram,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/Extra/Telegram/Telegram.list
 🍿 Emby,https://cdn.jsdelivr.net/gh/tigerchen1998/personalconfig@main/ExternalConfig/emby.txt
-🌍 Overseas,https://cdn.jsdelivr.net/gh/NZESupB/Profile@main/Rule/Download.list
-🌍 Overseas,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/Streaming.list
 🎥 Netflix,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
 📹 Youtube,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/Video/YouTube.list
 ⚡ SpeedTest,https://cdn.jsdelivr.net/gh/tigerchen1998/personalconfig@main/ExternalConfig/speedtest
+🌍 Overseas,https://cdn.jsdelivr.net/gh/NZESupB/Profile@main/Rule/Download.list
+🌍 Overseas,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/Streaming.list
 🕷️ Domestic,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 🕷️ Domestic,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/StreamingCN.list
 🏄‍ Proxy,https://cdn.jsdelivr.net/gh/NZESupB/Profile@main/Rule/Daily.list

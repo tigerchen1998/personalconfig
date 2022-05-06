@@ -1,0 +1,4 @@
+#SpeedTest
+DOMAIN-KEYWORD,speedtest
+USER-AGENT,SpeedTest*
+DOMAIN-SUFFIX,ooklaserver.net

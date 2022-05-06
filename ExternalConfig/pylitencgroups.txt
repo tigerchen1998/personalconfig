@@ -1,8 +1,11 @@
 🏄‍ Proxy`select`(AIA|IEPL|IPLC|专线)
-🌍 Overseas`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城)
 💬 Telegram`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城)
+📹 Youtube`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城)
+🎥 Netflix`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城)
 🍿 Emby`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(实验)
-🕷️ Domestic`select`[]DIRECT`(台|港|HK|TW)
 Ⓜ️ Microsoft`select`[]🏄‍ Proxy`[]DIRECT`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城)
+⚡ SpeedTest`select`[]🏄‍ Proxy`[]DIRECT`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城)
+🌍 Overseas`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城)
+🕷️ Domestic`select`[]DIRECT`(台|港|HK|TW)
 🛑 AdBlock`select`[]REJECT`[]DIRECT
 🎣 Final`select`[]🏄‍ Proxy`[]DIRECT

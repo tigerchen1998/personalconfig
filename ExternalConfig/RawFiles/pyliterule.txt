@@ -5,11 +5,11 @@ DIRECT,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Rule
 DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
 💬 Telegram,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/Telegram.list
 🍿 Emby,https://raw.githubusercontent.com/tigerchen1998/personalconfig/main/ExternalConfig/emby.txt
-🌍 Overseas,https://raw.githubusercontent.com/NZESupB/Profile/main/Rule/Download.list
-🌍 Overseas,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
 🎥 Netflix,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
 📹 Youtube,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list
 ⚡ SpeedTest,https://raw.githubusercontent.com/tigerchen1998/personalconfig/main/ExternalConfig/speedtest
+🌍 Overseas,https://raw.githubusercontent.com/NZESupB/Profile/main/Rule/Download.list
+🌍 Overseas,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
 🕷️ Domestic,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 🕷️ Domestic,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingCN.list
 🏄‍ Proxy,https://raw.githubusercontent.com/NZESupB/Profile/main/Rule/Daily.list

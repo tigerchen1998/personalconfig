@@ -47,4 +47,6 @@ IP-CIDR,104.21.26.206/8,no-resolve
 IP-CIDR,104.21.233.209/8,no-resolve
 # ProjectSi
 DOMAIN,space.emby.si
+DOMAIN,136.243.36.44
 IP-CIDR,136.243.36.44/16,no-resolve
+IP-CIDR,202.95.9.65/24,no-resolve

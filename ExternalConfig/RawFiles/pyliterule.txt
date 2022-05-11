@@ -10,7 +10,6 @@ DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Go
 📹 Youtube,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list
 ⚡ SpeedTest,https://raw.githubusercontent.com/tigerchen1998/personalconfig/main/ExternalConfig/speedtest.txt
 🎮 GamePlat,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Steam/Steam.list
-🎮 GamePlat,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SteamCN/SteamCN.list
 🎮 GamePlat,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Origin/Origin.list
 🎮 GamePlat,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Epic/Epic.list
 🏄‍ Proxy,https://raw.githubusercontent.com/NZESupB/Profile/main/Rule/Download.list

@@ -7,7 +7,7 @@ DIRECT,https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/GoogleFC
 🍿 Emby,https://cdn.jsdelivr.net/gh/tigerchen1998/personalconfig@main/ExternalConfig/emby.txt
 🎥 Netflix,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
 🎪 Disney+,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Surge/Disney/Disney.list
-📹 Youtube,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/Video/YouTube.list
+📹 YouTube,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/Video/YouTube.list
 ⚡ SpeedTest,https://cdn.jsdelivr.net/gh/tigerchen1998/personalconfig@main/ExternalConfig/speedtest.txt
 🎮 GamePlat,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Surge/Steam/Steam.list
 🎮 GamePlat,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Surge/Origin/Origin.list

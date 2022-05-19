@@ -1,6 +1,6 @@
 🏄‍ Proxy`select`(AIA|IEPL|IPLC|专线)
 💬 Telegram`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(高级)
-📹 Youtube`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城|台)
+📹 YouTube`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城|台)
 🎥 Netflix`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城|台)
 🎪 Disney+`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城|台)
 🍿 Emby`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(实验)

@@ -6,6 +6,9 @@ IP-CIDR,104.21.234.87/8,no-resolve
 IP-CIDR,31.222.226.114/8,no-resolve
 IP-CIDR,31.222.226.115/8,no-resolve
 IP-CIDR,139.162.118.117/16,no-resolve
+IP-CIDR,104.21.234.86/8,no-resolve
+IP-CIDR,20.205.102.200/8,no-resolve
+IP-CIDR,172.105.231.236/16,no-resolve
 # pornemby
 DOMAIN-SUFFIX,embyclub.com
 DOMAIN-SUFFIX,embyclub.net
@@ -47,5 +50,6 @@ IP-CIDR,104.21.26.206/8,no-resolve
 IP-CIDR,104.21.233.209/8,no-resolve
 # ProjectSi
 DOMAIN,space.emby.si
+DOMAIN,136.243.36.44
 IP-CIDR,136.243.36.44/16,no-resolve
 IP-CIDR,202.95.9.65/24,no-resolve

@@ -2,6 +2,7 @@
 DOMAIN-KEYWORD,emby-
 # 卷毛鼠
 DOMAIN-SUFFIX,jmsooo.com
+DOMAIN,cf.jmsooo.com
 IP-CIDR,104.21.234.87/8,no-resolve
 IP-CIDR,31.222.226.114/8,no-resolve
 IP-CIDR,31.222.226.115/8,no-resolve
@@ -34,6 +35,8 @@ IP-CIDR,155.248.214.23/16,no-resolve
 IP-CIDR,168.138.196.225/16,no-resolve
 # 卡戎
 DOMAIN-SUFFIX,charontv.com
+DOMAIN,play.charontv.com
+IP-CIDR,104.21.234.149/16,no-resolve
 # MisakaF
 DOMAIN-SUFFIX,misakaf.xyz
 IP-CIDR,46.38.239.238/8,no-resolve
@@ -53,3 +56,17 @@ DOMAIN,space.emby.si
 DOMAIN,136.243.36.44
 IP-CIDR,136.243.36.44/16,no-resolve
 IP-CIDR,202.95.9.65/24,no-resolve
+# 补充
+DOMAIN-SUFFIX,emby.mooncloud.top
+PROCESS-NAME,com.mb.android
+PROCESS-NAME,tv.emby.embyatv
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,assets.fanart.tv
+DOMAIN,ws-mt1.pusher.com
+DOMAIN,cf.emby.info
+DOMAIN,cf.embyplus.club
+DOMAIN-SUFFIX,emby.nyancat.net
+DOMAIN-SUFFIX,emby.3dmmp.com
+DOMAIN-SUFFIX,haochi.media
+DOMAIN-SUFFIX,embydata.com
+DOMAIN-SUFFIX,embycrack.tk

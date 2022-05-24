@@ -1,3 +1,4 @@
+DIRECT,https://raw.githubusercontent.com/tigerchen1998/personalconfig/main/ExternalConfig/direct.txt
 DIRECT,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/LocalAreaNetwork.list
 DIRECT,https://raw.githubusercontent.com/NZESupB/Profile/main/Rule/Direct.list
 DIRECT,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list

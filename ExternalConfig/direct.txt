@@ -1,4 +1,2 @@
 DOMAIN-SUFFIX,snapdrop.net
-DOMAIN-KEYWORD,dl-a10b-
-DOMAIN,indonesia-rcv5.n0909.com
 IP-CIDR,192.168.0.104/24,no-resolve

@@ -1,3 +1,4 @@
+DIRECT,https://cdn.jsdelivr.net/gh/tigerchen1998/personalconfig@main/ExternalConfig/direct.txt
 DIRECT,https://cdn.jsdelivr.net/gh/tindy2013/subconverter@master/base/rules/LocalAreaNetwork.list
 DIRECT,https://cdn.jsdelivr.net/gh/NZESupB/Profile@main/Rule/Direct.list
 DIRECT,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/Unbreak.list

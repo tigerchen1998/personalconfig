@@ -26,4 +26,5 @@ REJECT,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Rule
 🏄‍ Proxy,https://raw.githubusercontent.com/NZESupB/Profile/main/Rule/us.list
 🏄‍ Proxy,https://raw.githubusercontent.com/NZESupB/Profile/main/Rule/jp.list
 DIRECT,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
+DIRECT,[]GEOIP,CN
 🎣 Final,[]FINAL

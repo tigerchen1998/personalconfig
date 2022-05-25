@@ -10,6 +10,7 @@ IP-CIDR,139.162.118.117/16,no-resolve
 IP-CIDR,104.21.234.86/8,no-resolve
 IP-CIDR,20.205.102.200/8,no-resolve
 IP-CIDR,172.105.231.236/16,no-resolve
+IP-CIDR,20.205.102.200/8,no-resolve
 # pornemby
 DOMAIN-SUFFIX,embyclub.com
 DOMAIN-SUFFIX,embyclub.net

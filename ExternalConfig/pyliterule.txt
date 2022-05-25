@@ -26,4 +26,5 @@ REJECT,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/Gu
 🏄‍ Proxy,https://cdn.jsdelivr.net/gh/NZESupB/Profile@main/Rule/us.list
 🏄‍ Proxy,https://cdn.jsdelivr.net/gh/NZESupB/Profile@main/Rule/jp.list
 DIRECT,https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/China.list
+DIRECT,[]GEOIP,CN
 🎣 Final,[]FINAL

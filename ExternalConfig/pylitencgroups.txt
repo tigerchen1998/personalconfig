@@ -1,5 +1,5 @@
 🏄‍ Proxy`select`(AIA|IEPL|IPLC|专线)
-💬 Telegram`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏|香港|台湾|新加坡标准 IEPL 中继 3|Traffic|Expire).*)
+💬 Telegram`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏|港|湾|新加坡标准 IEPL 中继 3).*).*(日|美|韩|坡|狮城)
 📹 YouTube`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城)
 🎥 Netflix`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城)
 🎪 Disney+`select`[]🏄‍ Proxy`^(?!.*(ABC云|网易云|游戏).*).*(港|日|美|韩|坡|狮城)

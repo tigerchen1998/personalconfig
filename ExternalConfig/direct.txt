@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX,snapdrop.net
 IP-CIDR,192.168.0.104/24,no-resolve
+IP-CIDR,127.0.0.1/8,no-resolve

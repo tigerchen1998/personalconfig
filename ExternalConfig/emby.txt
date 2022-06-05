@@ -15,6 +15,8 @@ IP-CIDR,20.205.102.200/8,no-resolve
 DOMAIN-SUFFIX,embyclub.com
 DOMAIN-SUFFIX,embyclub.net
 DOMAIN-SUFFIX,embyclub.media
+DOMAIN,pornemby.club
+IP-CIDR,172.104.176.70/16,no-resolve
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
 IP-CIDR,152.67.196.106/16,no-resolve

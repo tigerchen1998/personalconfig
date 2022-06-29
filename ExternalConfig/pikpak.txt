@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,mypikpak.com
+IP-CIDR,47.241.212.52/8,no-resolve

@@ -3,58 +3,57 @@ DOMAIN-KEYWORD,emby-
 # 卷毛鼠
 DOMAIN-SUFFIX,jmsooo.com
 DOMAIN,cf.jmsooo.com
-IP-CIDR,104.21.234.87/8,no-resolve
-IP-CIDR,31.222.226.114/8,no-resolve
-IP-CIDR,31.222.226.115/8,no-resolve
-IP-CIDR,139.162.118.117/16,no-resolve
+DOMAIN,ha.jmsooo.com
 IP-CIDR,104.21.234.86/8,no-resolve
-IP-CIDR,20.205.102.200/8,no-resolve
-IP-CIDR,172.105.231.236/16,no-resolve
-IP-CIDR,20.205.102.200/8,no-resolve
+IP-CIDR,167.172.76.207/16,no-resolve
 # pornemby
 DOMAIN-SUFFIX,embyclub.com
 DOMAIN-SUFFIX,embyclub.net
 DOMAIN-SUFFIX,embyclub.media
 DOMAIN,pornemby.club
-IP-CIDR,172.104.176.70/16,no-resolve
-IP-CIDR,172.104.169.151/16,no-resolve
+IP-CIDR,2.58.59.141/8,no-resolve
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
-IP-CIDR,152.67.196.106/16,no-resolve
-IP-CIDR,150.230.248.56/16,no-resolve
-IP-CIDR,152.67.199.207/16,no-resolve
-IP-CIDR,183.232.29.135/16,no-resolve
+IP-CIDR,152.70.103.11/16,no-resolve
+IP-CIDR,150.230.96.91/16,no-resolve
+IP-CIDR,138.3.209.132/16,no-resolve
 # 奥德赛
 DOMAIN-SUFFIX,odysseyplus.site
 IP-CIDR,104.21.49.6/8,no-resolve
-IP-CIDR,139.59.107.43/16,no-resolve
+IP-CIDR,159.223.79.180/16,no-resolve
 IP-CIDR,150.230.33.5/16,no-resolve
 IP-CIDR,129.154.53.182/16,no-resolve
 IP-CIDR,138.2.34.246/16,no-resolve
 # misty
 DOMAIN-SUFFIX,aaa.ax
 DOMAIN-SUFFIX,ssky.me
-IP-CIDR,5.161.95.95/8,no-resolve
+IP-CIDR,103.107.198.20/8,no-resolve
 IP-CIDR,155.248.214.23/16,no-resolve
 IP-CIDR,168.138.196.225/16,no-resolve
+IP-CIDR,88.198.66.217/8,no-resolve
 # 卡戎
 DOMAIN-SUFFIX,charontv.com
 DOMAIN,play.charontv.com
 IP-CIDR,104.21.234.149/16,no-resolve
 # MisakaF
 DOMAIN-SUFFIX,misakaf.xyz
-IP-CIDR,46.38.239.238/8,no-resolve
-IP-CIDR,183.232.250.98/16,no-resolve
-IP-CIDR,20.239.184.32/8,no-resolve
+DOMAIN-SUFFIX,cf.misakaf.org
+DOMAIN-SUFFIX,4837.misakaf.org
+IP-CIDR,104.21.73.77/8,no-resolve
+IP-CIDR,198.16.63.162/24,no-resolve
 # FlowerCloud
 DOMAIN,emby.flowercloud.yt
 IP-CIDR,172.67.142.211/16,no-resolve
 # 普拉斯影业
 DOMAIN-SUFFIX,plusmedia.site
 DOMAIN-SUFFIX,xeton.dev
+DOMAIN-SUFFIX,emby.prprcloud.com
+DOMAIN-SUFFIX,prpr.kyarucloud.moe
 IP-CIDR,20.239.77.243/8,no-resolve
 IP-CIDR,104.21.26.206/8,no-resolve
 IP-CIDR,104.21.233.209/8,no-resolve
+IP-CIDR,31.13.64.7/8,no-resolve
+IP-CIDR,172.67.75.15/16,no-resolve
 # ProjectSi
 DOMAIN,space.emby.si
 DOMAIN,136.243.36.44

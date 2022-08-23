@@ -27,7 +27,7 @@ IP-CIDR,138.2.34.246/16,no-resolve
 # misty
 DOMAIN-SUFFIX,aaa.ax
 DOMAIN-SUFFIX,ssky.me
-IP-CIDR,103.107.198.20/8,no-resolve
+IP-CIDR,103.107.198.26/8,no-resolve
 IP-CIDR,155.248.214.23/16,no-resolve
 IP-CIDR,168.138.196.225/16,no-resolve
 IP-CIDR,88.198.66.217/8,no-resolve

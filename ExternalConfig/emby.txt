@@ -39,8 +39,10 @@ IP-CIDR,104.21.234.149/16,no-resolve
 DOMAIN-SUFFIX,misakaf.xyz
 DOMAIN-SUFFIX,cf.misakaf.org
 DOMAIN-SUFFIX,4837.misakaf.org
+DOMAIN-SUFFIX,porn.misakaf.org
 IP-CIDR,104.21.73.77/8,no-resolve
 IP-CIDR,198.16.63.162/24,no-resolve
+IP-CIDR,104.26.8.150/8,no-resolve
 # FlowerCloud
 DOMAIN,emby.flowercloud.yt
 IP-CIDR,172.67.142.211/16,no-resolve

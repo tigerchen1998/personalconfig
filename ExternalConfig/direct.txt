@@ -1,2 +1,4 @@
 DOMAIN-SUFFIX,snapdrop.net
+DOMAIN-SUFFIX,libvio.me
 IP-CIDR,192.168.0.104/24,no-resolve
+IP-CIDR,180.215.133.81/16,no-resolve

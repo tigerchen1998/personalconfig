@@ -68,6 +68,13 @@ DOMAIN-SUFFIX,404.sb
 IP-CIDR,82.115.31.124/8,no-resolve
 IP-CIDR,156.251.180.19/16,no-resolve
 IP-CIDR,89.58.4.156/8,no-resolve
+# GFWemby
+DOMAIN-SUFFIX,us-s2.gfwemby.org
+DOMAIN-SUFFIX,us-s1.gfwemby.org
+DOMAIN-SUFFIX,aws-us.gfwemby.org
+IP-CIDR,185.148.13.45/16,no-resolve
+IP-CIDR,107.150.58.242/8,no-resolve
+IP-CIDR,35.84.39.177/8,no-resolve
 # 补充
 DOMAIN-SUFFIX,emby.mooncloud.top
 PROCESS-NAME,com.mb.android

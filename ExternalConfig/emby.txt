@@ -28,10 +28,12 @@ IP-CIDR,152.70.107.52/16,no-resolve
 # misty
 DOMAIN-SUFFIX,aaa.ax
 DOMAIN-SUFFIX,ssky.me
+DOMAIN-SUFFIX,misty.ltd
 IP-CIDR,103.107.198.26/8,no-resolve
 IP-CIDR,155.248.214.23/16,no-resolve
 IP-CIDR,168.138.196.225/16,no-resolve
 IP-CIDR,88.198.66.217/8,no-resolve
+IP-CIDR,37.120.164.209/8,no-resolve
 # 卡戎
 DOMAIN-SUFFIX,charontv.com
 DOMAIN,play.charontv.com

@@ -51,3 +51,6 @@ payload:
   - IP-CIDR,185.148.13.45/16,no-resolve
   - IP-CIDR,107.150.58.242/8,no-resolve
   - IP-CIDR,35.84.39.177/8,no-resolve
+  # Nebula
+  - DOMAIN-SUFFIX,direct.nebula-emby.com
+  - IP-CIDR,104.21.88.66/8,no-resolve

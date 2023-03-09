@@ -19,3 +19,6 @@ DOMAIN-SUFFIX,fyber.com
 DOMAIN-SUFFIX,ssacdn.com
 DOMAIN-SUFFIX,nekki.com
 DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleapis.com

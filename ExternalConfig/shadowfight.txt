@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,chartboost.com
-DOMAIN-SUFFIX,tapjoy.com
+DOMAIN-SUFFIX,tapjoyads.com
 DOMAIN-SUFFIX,vungle.com
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,pangle.io

@@ -1,0 +1,21 @@
+# Shadow Fight
+DOMAIN-SUFFIX,supersonicads.com
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,adcolony.com
+DOMAIN-SUFFIX,chartboost.com
+DOMAIN-SUFFIX,tapjoy.com
+DOMAIN-SUFFIX,vungle.com
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,pangle.io
+DOMAIN-SUFFIX,teleport.soom.la
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,ironsrc.mobi
+DOMAIN-SUFFIX,i18n-pglstatp.com
+DOMAIN-SUFFIX,sgsnssdk.com
+DOMAIN-SUFFIX,isnssdk.com
+DOMAIN-SUFFIX,fyber.com
+DOMAIN-SUFFIX,ssacdn.com
+DOMAIN-SUFFIX,nekki.com
+DOMAIN-SUFFIX,facebook.com

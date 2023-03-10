@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,chartboost.com
 DOMAIN-SUFFIX,tapjoyads.com
+DOMAIN-SUFFIX,tapjoy.com
 DOMAIN-SUFFIX,vungle.com
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,pangle.io
@@ -22,3 +23,4 @@ DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,appier.net

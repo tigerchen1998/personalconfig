@@ -1,14 +1,4 @@
 # Shadow Fight
-DOMAIN-SUFFIX,supersonicads.com
-DOMAIN-SUFFIX,applovin.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,appsflyer.com
-DOMAIN-SUFFIX,adcolony.com
-DOMAIN-SUFFIX,chartboost.com
-DOMAIN-SUFFIX,tapjoyads.com
-DOMAIN-SUFFIX,tapjoy.com
-DOMAIN-SUFFIX,vungle.com
-DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,pangle.io
 DOMAIN-SUFFIX,teleport.soom.la
 DOMAIN-SUFFIX,adjust.com
@@ -19,8 +9,8 @@ DOMAIN-SUFFIX,isnssdk.com
 DOMAIN-SUFFIX,fyber.com
 DOMAIN-SUFFIX,ssacdn.com
 DOMAIN-SUFFIX,nekki.com
-DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,appier.net
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,unitychina.cn
+DOMAIN-SUFFIX,compute.amazonaws.com

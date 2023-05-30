@@ -54,3 +54,20 @@ payload:
   # Nebula
   - DOMAIN-SUFFIX,direct.nebula-emby.com
   - IP-CIDR,104.21.88.66/8,no-resolve
+  # paul
+  - DOMAIN-SUFFIX,imetyou.top
+  - IP-CIDR,130.61.237.69/16,no-resolve
+  - IP-CIDR,172.67.221.252/16,no-resolve
+  - IP-CIDR,130.162.152.76/16,no-resolve
+  # 剧狗
+  - DOMAIN-SUFFIX,ju.dog
+  - IP-CIDR,193.30.123.77/24,no-resolve
+  - IP-CIDR,152.67.221.204/16,no-resolve
+  - IP-CIDR,216.127.175.163/24,no-resolve
+  - IP-CIDR,4.194.22.207/8,no-resolve
+  # TreeDiagram
+  - DOMAIN-SUFFIX,789.123456.al
+  - IP-CIDR,104.21.74.160/8,no-resolve
+  # 野兽制
+  - DOMAIN-SUFFIX,emby.mius.uk
+  - IP-CIDR,172.67.163.221/16,no-resolve

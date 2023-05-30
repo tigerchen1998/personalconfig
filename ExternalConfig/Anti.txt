@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,dafa­hao
-DOMAIN-SUFFIX,minghui
-DOMAIN-SUFFIX,dong­tai­wang
-DOMAIN-SUFFIX,epochtimes
-DOMAIN-SUFFIX,nt­dtv
-DOMAIN-SUFFIX,falundafa
-DOMAIN-SUFFIX,wu­jieli­u­lan
+DOMAIN-KEYWORD,dafa­hao
+DOMAIN-KEYWORD,minghui
+DOMAIN-KEYWORD,dong­tai­wang
+DOMAIN-KEYWORD,epochtimes
+DOMAIN-KEYWORD,nt­dtv
+DOMAIN-KEYWORD,falundafa
+DOMAIN-KEYWORD,wu­jieli­u­lan

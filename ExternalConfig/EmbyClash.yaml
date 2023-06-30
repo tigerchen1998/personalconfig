@@ -7,63 +7,32 @@ payload:
   - DOMAIN-SUFFIX,jmsooo.com
   - DOMAIN,cf.jmsooo.com
   - DOMAIN,ha.jmsooo.com
-  - IP-CIDR,104.21.234.86/8,no-resolve
-  - IP-CIDR,138.2.14.231/16,no-resolve
   # pornemby
   - DOMAIN,pornemby.club
-  - IP-CIDR,193.42.12.165/24,no-resolve
   # 终点站
   - DOMAIN-SUFFIX,emby.wtf
-  - IP-CIDR,138.3.218.198/16,no-resolve
-  - IP-CIDR,138.2.65.134/16,no-resolve
-  - IP-CIDR,138.3.209.132/16,no-resolve
   # 奥德赛
   - DOMAIN-SUFFIX,odysseyplus.site
-  - IP-CIDR,172.67.139.252/16,no-resolve
-  - IP-CIDR,150.230.33.5/16,no-resolve
-  - IP-CIDR,129.154.53.182/16,no-resolve
-  - IP-CIDR,138.2.34.246/16,no-resolve
-  - IP-CIDR,152.70.107.52/16,no-resolve
   # misty
   - DOMAIN-SUFFIX,misty.ltd
-  - IP-CIDR,37.120.164.209/8,no-resolve
   # FlowerCloud
   - DOMAIN,emby.flowercloud.yt
-  - IP-CIDR,104.21.39.30/8,no-resolve
   # 普拉斯影业
   - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,xeton.dev
   - DOMAIN-SUFFIX,emby.prprcloud.com
   - DOMAIN-SUFFIX,prpr.kyarucloud.moe
-  - IP-CIDR,54.199.36.203/8,no-resolve
-  - IP-CIDR,172.67.168.138/16,no-resolve
-  - IP-CIDR,104.21.233.210/8,no-resolve
-  - IP-CIDR,104.21.233.209/8,no-resolve
-  - IP-CIDR,108.160.170.52/8,no-resolve
   # GFWemby
   - DOMAIN-SUFFIX,us-s2.gfwemby.org
   - DOMAIN-SUFFIX,us-s1.gfwemby.org
   - DOMAIN-SUFFIX,aws-us.gfwemby.org
-  - IP-CIDR,185.148.13.45/16,no-resolve
-  - IP-CIDR,107.150.58.242/8,no-resolve
-  - IP-CIDR,35.84.39.177/8,no-resolve
   # Nebula
   - DOMAIN-SUFFIX,direct.nebula-emby.com
-  - IP-CIDR,104.21.88.66/8,no-resolve
   # paul
   - DOMAIN-SUFFIX,imetyou.top
-  - IP-CIDR,130.61.237.69/16,no-resolve
-  - IP-CIDR,172.67.221.252/16,no-resolve
-  - IP-CIDR,130.162.152.76/16,no-resolve
   # 剧狗
   - DOMAIN-SUFFIX,ju.dog
-  - IP-CIDR,193.30.123.77/24,no-resolve
-  - IP-CIDR,152.67.221.204/16,no-resolve
-  - IP-CIDR,216.127.175.163/24,no-resolve
-  - IP-CIDR,4.194.22.207/8,no-resolve
   # TreeDiagram
   - DOMAIN-SUFFIX,789.123456.al
-  - IP-CIDR,104.21.74.160/8,no-resolve
   # 野兽制
   - DOMAIN-SUFFIX,emby.mius.uk
-  - IP-CIDR,172.67.163.221/16,no-resolve

@@ -12,7 +12,7 @@ payload:
   # 终点站
   - DOMAIN-SUFFIX,emby.wtf
   # 奥德赛
-  - DOMAIN-SUFFIX,odysseyplus.site
+  - DOMAIN-SUFFIX,cf.odysseyplus.site
   # misty
   - DOMAIN-SUFFIX,misty.ltd
   # FlowerCloud

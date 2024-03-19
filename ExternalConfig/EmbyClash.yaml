@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,emby.wtf
   # 奥德赛
   - DOMAIN-SUFFIX,cf.odysseyplus.site
+  - DOMAIN-SUFFIX,v.odysseyplus.site
   # misty
   - DOMAIN-SUFFIX,misty.ltd
   # FlowerCloud

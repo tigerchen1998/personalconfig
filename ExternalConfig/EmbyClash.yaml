@@ -40,3 +40,5 @@ payload:
   - DOMAIN-SUFFIX,emby.mius.uk
   # AlpahTV
   - DOMAIN-SUFFIX,alphatvapp.top
+  # Nebula
+  - DOMAIN-SUFFIX,nebula-media

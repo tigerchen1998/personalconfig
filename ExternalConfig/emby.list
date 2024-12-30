@@ -41,3 +41,6 @@ DOMAIN-SUFFIX,emby.mius.uk
 DOMAIN-SUFFIX,alphatvapp.top
 # Nebula
 DOMAIN-SUFFIX,nebula-media
+# TanHuaTV
+DOMAIN-SUFFIX,tanhuatv.site
+DOMAIN-KEYWORD,tanhuatv

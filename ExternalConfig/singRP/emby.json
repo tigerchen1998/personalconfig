@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+         "tanhuatv",
+         "emby"
+        ]
+    },
+    {
+      "domain_suffix": [
+        "jmsuper.com",
+        "jmsooo.com",
+        "emby.wtf",
+        "cf.odysseyplus.site",
+        "v.odysseyplus.site",
+        "misty.ltd",
+        "plusmedia.site",
+        "xeton.dev",
+        "us-s2.gfwemby.org",
+        "us-s1.gfwemby.org",
+        "aws-us.gfwemby.org",
+        "direct.nebula-emby.com",
+        "imetyou.top",
+        "ju.dog",
+        "789.123456.al",
+        "emby.mius.uk",
+        "alphatvapp.top",
+        "nebula-media",
+        "tanhuatv.site"
+      ]
+    },
+    {
+      "domain": [
+        "cf.jmsooo.com",
+        "ha.jmsooo.com",
+        "pornemby.club",
+        "emby.flowercloud.yt",
+        "emby.prprcloud.com",
+        "prpr.kyarucloud.moe"
+      ]
+    }
+  ]
+}

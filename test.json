@@ -16,7 +16,7 @@
     },
   "cache_file": {
     "enabled": true,
-    "path": "/etc/sing-box/cache.db",
+    "path": "/data/data/io.nekohasekai.sfa/cache.db",
     "store_fakeip": false
     }
   },

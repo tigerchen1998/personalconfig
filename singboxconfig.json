@@ -16,7 +16,7 @@
     },
   "cache_file": {
     "enabled": true,
-    "path": "/etc/sing-box/cache.db",
+    "path": "/data/data/io.nekohasekai.sfa/cache.db",
     "store_fakeip": false
     }
   },
@@ -65,7 +65,7 @@
     { "tag": "🕷 AntiChina", "type": "selector", "outbounds": ["{all}"], "filter": [{ "action": "exclude", "keywords": ["香港|官网|电报|问题|邮箱|IEPL|Traffic|Expire"] }] },
     { "tag": "📢 AdBlock", "type": "selector", "outbounds": ["🏄‍ Proxy", "block"] },    
     { "tag": "♻️ Final", "type": "selector", "outbounds": ["🏄‍ Proxy","direct"] },
-    { "tag": "Global", "type": "selector", "outbounds": ["{all}"], "interface": { "hidden": true } },
+    { "tag": "Global", "type": "selector", "outbounds": ["{all}"] },
     { "type": "direct", "tag": "direct"},
     { "type": "block", "tag": "block"}
   ],
@@ -101,7 +101,7 @@
    ],
     
    "rule_set": [
-    { "tag": "geosite-sogo", "type": "remote", "format": "json", "url": "https://ruleset.skk.moe/sing-box/non_ip/sogouinput.json", "download_detour": "block" },
+    { "tag": "geosite-sogo", "type": "remote", "format": "source", "url": "https://ruleset.skk.moe/sing-box/non_ip/sogouinput.json", "download_detour": "block" },
     { "tag": "geosite-telegram", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/telegram.srs", "download_detour": "💬 Telegram" },
     { "tag": "geoip-telegram", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/telegram.srs", "download_detour": "💬 Telegram" },     
     { "tag": "geosite-private", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/private.srs", "download_detour": "direct" },
@@ -110,8 +110,8 @@
     { "tag": "geosite-youtube", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/youtube.srs", "download_detour": "📹 YouTube" },
     { "tag": "geosite-game", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/category-games@!cn.srs", "download_detour": "🎮 GamePlat" },
     { "tag": "geosite-tiktok", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/tiktok.srs", "download_detour": "🌈 Streaming" },
-    { "tag": "geosite-emby", "type": "remote", "format": "json", "url": "https://raw.githubusercontent.com/tigerchen1998/personalconfig/refs/heads/main/ExternalConfig/singRP/emby.json", "download_detour": "🍿 Emby" },
-    { "tag": "geosite-anti", "type": "remote", "format": "json", "url": "https://raw.githubusercontent.com/tigerchen1998/personalconfig/refs/heads/main/ExternalConfig/singRP/anti.json", "download_detour": "🕷 AntiChina" },
+    { "tag": "geosite-emby", "type": "remote", "format": "source", "url": "https://raw.githubusercontent.com/tigerchen1998/personalconfig/refs/heads/main/ExternalConfig/singRP/emby.json", "download_detour": "🍿 Emby" },
+    { "tag": "geosite-anti", "type": "remote", "format": "source", "url": "https://raw.githubusercontent.com/tigerchen1998/personalconfig/refs/heads/main/ExternalConfig/singRP/anti.json", "download_detour": "🕷 AntiChina" },
     { "tag": "geosite-netflix", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/netflix.srs", "download_detour": "🎥 Netflix" },
     { "tag": "geoip-netflix", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/netflix.srs", "download_detour": "🎥 Netflix" },     
     { "tag": "geosite-media", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/category-social-media-!cn.srs", "download_detour": "🌈 Streaming" },

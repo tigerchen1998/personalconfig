@@ -45,3 +45,7 @@ payload:
   # TanHuaTV
   - DOMAIN-SUFFIX,tanhuatv.site
   - DOMAIN-KEYWORD,tanhuatv
+  # Others
+  - DOMAIN-SUFFIX,ddys
+  - DOMAIN-SUFFIX,gying
+
